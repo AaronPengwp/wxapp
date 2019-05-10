@@ -1,5 +1,5 @@
 微信小程序社区CrawlSpider案例
-###CrawlSpider:
+###CrawlSpider: 
  需要使用｀LinkExtractor｀和｀Rule｀。这两个东西决定爬虫的具体走向。
 
 1、allow设置规则的方法：要能够限制在我们想要的url上面。不要跟其它url产生相同的正则表达式即可。
